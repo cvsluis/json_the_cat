@@ -9,5 +9,3 @@ fetchBreedDescription(breedName, (error, desc) => {
     console.log(desc);
   }
 });
-
-fetchBreedDescription();
